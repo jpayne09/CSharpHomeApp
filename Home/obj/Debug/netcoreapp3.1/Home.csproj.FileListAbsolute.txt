@@ -1,0 +1,9 @@
+C:\Users\A218633\Source\repos\HomeApplication\Home\bin\Debug\netcoreapp3.1\Home.deps.json
+C:\Users\A218633\Source\repos\HomeApplication\Home\bin\Debug\netcoreapp3.1\Home.dll
+C:\Users\A218633\Source\repos\HomeApplication\Home\bin\Debug\netcoreapp3.1\Home.pdb
+C:\Users\A218633\Source\repos\HomeApplication\Home\obj\Debug\netcoreapp3.1\Home.csprojAssemblyReference.cache
+C:\Users\A218633\Source\repos\HomeApplication\Home\obj\Debug\netcoreapp3.1\Home.AssemblyInfoInputs.cache
+C:\Users\A218633\Source\repos\HomeApplication\Home\obj\Debug\netcoreapp3.1\Home.AssemblyInfo.cs
+C:\Users\A218633\Source\repos\HomeApplication\Home\obj\Debug\netcoreapp3.1\Home.csproj.CoreCompileInputs.cache
+C:\Users\A218633\Source\repos\HomeApplication\Home\obj\Debug\netcoreapp3.1\Home.dll
+C:\Users\A218633\Source\repos\HomeApplication\Home\obj\Debug\netcoreapp3.1\Home.pdb

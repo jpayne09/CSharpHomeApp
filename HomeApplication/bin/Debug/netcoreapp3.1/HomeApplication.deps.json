@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HomeApplication/1.0.0": {
+        "dependencies": {
+          "HomeChoice": "1.0.0"
+        },
+        "runtime": {
+          "HomeApplication.dll": {}
+        }
+      },
+      "Home/1.0.0": {
+        "runtime": {
+          "Home.dll": {}
+        }
+      },
+      "HomeChoice/1.0.0": {
+        "dependencies": {
+          "Home": "1.0.0"
+        },
+        "runtime": {
+          "HomeChoice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Home/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HomeChoice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
